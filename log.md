@@ -19,7 +19,7 @@
 
 **Today's Progress**:
 
-1. Today I can only complete one project. namely JS Documentation
+1. Today I can only complete one project. is JS Documentation
 
 **Thoughts:**
 
@@ -35,6 +35,6 @@
 
 **Thoughts:**
 
-1. it gets stuck while completing the project, but I can fix it
+1. Recall which elements to use
 
 **Link to work:** [Responsive Web Design](https://www.freecodecamp.org/learn/)
