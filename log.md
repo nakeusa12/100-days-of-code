@@ -39,7 +39,7 @@
 
 **Link to work:** [Responsive Web Design](https://www.freecodecamp.org/learn/)
 
-### Day 3: October 10, 2020
+### Day 4: October 11, 2020
 
 **Today's Progress**:
 
