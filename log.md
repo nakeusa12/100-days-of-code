@@ -38,3 +38,19 @@
 1. Recall which elements to use
 
 **Link to work:** [Responsive Web Design](https://www.freecodecamp.org/learn/)
+
+### Day 3: October 10, 2020
+
+**Today's Progress**:
+
+1. today I managed to complete the final responsive web project from
+   Freecodecamp
+
+2. Today also created a successful personal web portfolio
+
+**Thoughts:**
+
+1. I use a lot of elements that I rarely use.
+2. become familiar with media queries
+
+**Link to work:** [Responsive Web Design](https://www.freecodecamp.org/learn/)
