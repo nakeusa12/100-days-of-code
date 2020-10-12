@@ -54,3 +54,16 @@
 2. become familiar with media queries
 
 **Link to work:** [Responsive Web Design](https://www.freecodecamp.org/learn/)
+
+### Day 5: October 12, 2020
+
+**Today's Progress**:
+
+1. Today I managed to complete two javascript modules are basic and es6
+
+**Thoughts:**
+
+1. Repeat the javascript that has been done starting from the basics
+
+**Link to work:**
+[Javascript Algorithms and Data Structures](https://www.freecodecamp.org/learn/)
