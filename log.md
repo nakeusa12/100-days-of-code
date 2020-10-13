@@ -67,3 +67,16 @@
 
 **Link to work:**
 [Javascript Algorithms and Data Structures](https://www.freecodecamp.org/learn/)
+
+### Day 6: October 13, 2020
+
+**Today's Progress**:
+
+1. Learn about regex and put it into practice
+
+**Thoughts:**
+
+1. Many methods can be learned in regex so I have to understand
+
+**Link to work:**
+[Javascript Algorithms and Data Structures](https://www.freecodecamp.org/learn/)
