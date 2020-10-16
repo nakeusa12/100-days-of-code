@@ -80,3 +80,16 @@
 
 **Link to work:**
 [Javascript Algorithms and Data Structures](https://www.freecodecamp.org/learn/)
+
+### Day 8: October 116, 2020
+
+**Today's Progress**:
+
+1. Do a small project to understand about regex
+
+**Thoughts:**
+
+1. I need to learn more and understand regex because of the many methods
+
+**Link to work:**
+[Javascript Algorithms and Data Structures](https://www.freecodecamp.org/learn/)
