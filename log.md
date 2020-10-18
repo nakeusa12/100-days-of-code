@@ -106,3 +106,16 @@
 
 **Link to work:**
 [Javascript Algorithms and Data Structures](https://www.freecodecamp.org/learn/)
+
+### Day 10: October 18, 2020
+
+**Today's Progress**:
+
+1. continue learning regex
+
+**Thoughts:**
+
+1. I need to learn more and understand regex because of the many methods
+
+**Link to work:**
+[Javascript Algorithms and Data Structures](https://www.freecodecamp.org/learn/)
