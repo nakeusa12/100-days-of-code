@@ -119,3 +119,15 @@
 
 **Link to work:**
 [Javascript Algorithms and Data Structures](https://www.freecodecamp.org/learn/)
+
+### Day 11: October 19, 2020
+
+**Today's Progress**:
+
+1. today I slice my web design into html and css
+
+**Thoughts:**
+
+1. takes a long time to be able to focus while studying and trying
+
+## **Link to work:**
