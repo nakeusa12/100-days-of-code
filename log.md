@@ -131,3 +131,15 @@
 1. takes a long time to be able to focus while studying and trying
 
 ## **Link to work:**
+
+### Day 12: October 20, 2020
+
+**Today's Progress**:
+
+1. today I tidied up my web slicing
+
+**Thoughts:**
+
+1. takes a long time to be able to focus while studying and trying
+
+## **Link to work:**
