@@ -143,3 +143,15 @@
 1. takes a long time to be able to focus while studying and trying
 
 ## **Link to work:**
+
+### Day 13: October 21, 2020
+
+**Today's Progress**:
+
+1. try making a profile card with html and css
+
+**Thoughts:**
+
+1. takes a long time to be able to focus while studying and trying
+
+## **Link to work:**
