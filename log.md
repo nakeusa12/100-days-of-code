@@ -155,3 +155,16 @@
 1. takes a long time to be able to focus while studying and trying
 
 ## **Link to work:**
+
+### Day 14: October 22, 2020
+
+**Today's Progress**:
+
+1. Today completed the debugging lesson at freecodecamp
+2. Exploration of animation with css
+
+**Thoughts:**
+
+1. Apparently with css can make animation...
+
+## **Link to work:**
