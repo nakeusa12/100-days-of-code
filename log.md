@@ -167,4 +167,19 @@
 
 1. Apparently with css can make animation...
 
-## **Link to work:**
+**Link to work:**
+[Javascript Algorithms and Data Structures](https://www.freecodecamp.org/learn/)
+
+### Day 15: October 23, 2020
+
+**Today's Progress**:
+
+1. Working on the data structure at freecodecamp
+2. Exploration of animation with css
+
+**Thoughts:**
+
+1. There are many methods that can be used in data structures
+
+**Link to work:**
+[Javascript Algorithms and Data Structures](https://www.freecodecamp.org/learn/)
