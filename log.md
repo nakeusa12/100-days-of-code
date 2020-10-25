@@ -197,3 +197,16 @@
 
 **Link to work:**
 [Javascript Algorithms and Data Structures](https://www.freecodecamp.org/learn/)
+
+### Day 17: October 25, 2020
+
+**Today's Progress**:
+
+1. finish studying data structure in freecodecamp
+
+**Thoughts:**
+
+1. There are many methods that can be used in data structures
+
+**Link to work:**
+[Javascript Algorithms and Data Structures](https://www.freecodecamp.org/learn/)
