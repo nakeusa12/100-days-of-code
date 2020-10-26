@@ -210,3 +210,16 @@
 
 **Link to work:**
 [Javascript Algorithms and Data Structures](https://www.freecodecamp.org/learn/)
+
+### Day 18: October 26, 2020
+
+**Today's Progress**:
+
+1. today do not continue studying at freecodecamp, just explore html and css
+
+**Thoughts:**
+
+1. today the mood is not good so just a regular explore
+
+**Link to work:**
+[Javascript Algorithms and Data Structures](https://www.freecodecamp.org/learn/)
