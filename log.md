@@ -236,3 +236,27 @@
 
 **Link to work:**
 [Javascript Algorithms and Data Structures](https://www.freecodecamp.org/learn/)
+
+### Day 20: October 28, 2020
+
+**Today's Progress**:
+
+1. learn to make animation from youtube
+
+**Thoughts:**
+
+1. lots of cool animations make me want to be all of them
+
+**Link to work:** [Animation On Youtube](https://www.youtube.com/)
+
+### Day 21: October 29, 2020
+
+**Today's Progress**:
+
+1. learn to make animation from youtube
+
+**Thoughts:**
+
+1. lots of cool animations make me want to be all of them
+
+**Link to work:** [Animation On Youtube](https://www.youtube.com/)
