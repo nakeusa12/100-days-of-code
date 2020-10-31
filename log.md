@@ -260,3 +260,27 @@
 1. lots of cool animations make me want to be all of them
 
 **Link to work:** [Animation On Youtube](https://www.youtube.com/)
+
+### Day 22: October 30, 2020
+
+**Today's Progress**:
+
+1. learn flexbox and data structures
+
+**Thoughts:**
+
+1. Very draining the brain
+
+**Link to work:** [Animation On Youtube](https://www.youtube.com/)
+
+### Day 23: October 31, 2020
+
+**Today's Progress**:
+
+1. learn Css Grid and data structures
+
+**Thoughts:**
+
+1. Very draining the brain
+
+**Link to work:** [Animation On Youtube](https://www.youtube.com/)
